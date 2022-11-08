@@ -17,8 +17,8 @@
 </head>
 
 <body>
-  <!-- Hi MY name is Leo and i want to say hello world. I think i am a pretty good kid im a bit stubborn but i learn i like to listen to music i also play multiple instruments and im learning to make a webpage. Hopefully this tells you a bit about myself and goodbye. au revoir-->
- HELLO World!!! Hi MY name is Leo and i want to say hello world. I think i am a pretty good kid im a bit stubborn but i learn i like to listen to music i also play multiple instruments and im learning to make a webpage. Hopefully this tells you a bit about myself and goodbye. au revoir
+  <!-- content here...-->
+ HELLO World!!! Hi MY name is Leo and i want to say hello world. I think i am a pretty good kid im a bit stubborn but i learn i like to listen to music i also play multiple instruments and im learning to make a webpage. Hopefully this tells you a bit about myself and goodbye. au revoir....
  
 </body>
 </html>
